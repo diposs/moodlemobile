@@ -86,7 +86,8 @@
     <gap:plugin name="org.apache.cordova.network-information" />
     <gap:plugin name="org.apache.cordova.splashscreen" />
     <gap:plugin name="com.phonegap.plugin.statusbar" />
-
+    <gap:plugin name="cordova-plugin-whitelist" source="npm" />
+        
     <gap:plugin name="com.phonegap.plugins.pushplugin" />
     <gap:plugin name="net.tunts.webintent" />
     <gap:plugin name="nl.x-services.plugins.launchmyapp">
